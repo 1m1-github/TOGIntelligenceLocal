@@ -1,6 +1,6 @@
 name = "TOGIntelligenceLocal"
 uuid = "924bc2a5-e083-4d12-bf67-a842e8246f09"
-version = "2.0.0"
+version = "3.0.0"
 authors = ["1m1 <imi@1m1.io>"]
 
 [deps]
